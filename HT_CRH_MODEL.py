@@ -1,4 +1,5 @@
-'''Hypothalamic parvocellular neurosecretory CRH neuron model by Nima R. Hadidi'''
+'''Hypothalamic parvocellular neurosecretory CRH neuron model by Nima R. Hadidi
+This file simulates the neuron with current steps from -40 to 70 pA'''
 
 
 from brian2 import *
